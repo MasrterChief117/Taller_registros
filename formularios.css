@@ -1,0 +1,15 @@
+body{
+    font-family: 'Comic Sans', Comic Sans MS;
+    text-align: center;
+}
+section{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.form-check{
+    text-align: center;
+}
+p{
+    font-size: 21px;
+    text-align: center;
+}
